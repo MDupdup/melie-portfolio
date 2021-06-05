@@ -1,5 +1,5 @@
 import * as React from "react";
-import melie from "../resources/melie2.jpg"
+import melie from "../resources/melie2.jpg";
 
 export class Presentation extends React.Component {
     render() {
